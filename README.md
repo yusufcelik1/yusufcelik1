@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm currently working on Transformer Design Automation<br>I'm currently learning .NET CORE 6<br>Ask me about 3D Design Automation<br>Fun fact "The world's largest pizza was made on an area of 1,261.65 square meters. <br>This event took place in the city of Rome, Italy, in 2012, and the gigantic pizza was <br>cooked in over 100 ovens." 
+I'm currently learning .NET CORE 6 and React<br>
+<hr>
+Fun fact "The world's largest pizza was made on an area of 1,261.65 square meters. <br>This event took place in the city of Rome, Italy, in 2012, and the gigantic pizza was <br>cooked in over 100 ovens." 
 
 
 ## 🌐 Socials:
